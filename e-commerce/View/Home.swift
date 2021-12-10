@@ -119,4 +119,4 @@ struct Home: View {
 }
 
 //Tabs...
-var tabs = ["Glasess","Watches","Shoes","Perfume"]
+var tabs = ["Clothes","Watches","Shoes","Perfume"]
