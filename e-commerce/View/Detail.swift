@@ -125,7 +125,7 @@ struct Detail: View {
                             .font(.system(size: 10))
                     }
                     .padding()
-                    .frame(width: UIScreen.main.bounds.width - 50, alignment: .leading)
+                    .frame(width: UIScreen.main.bounds.width - 180, alignment: .leading)
                     .background(.brown)
                     .cornerRadius(20)
                     
