@@ -80,6 +80,7 @@ struct Home: View {
                         }
                         .padding()
                         .padding(.top,5)
+                     
                         
                         LazyVGrid(columns: Array(repeating: GridItem(.flexible(),spacing: 20),
                                                  count: 2),spacing: 25) {
